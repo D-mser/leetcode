@@ -1,6 +1,6 @@
-import { recursiveReverse } from '../recursive-reverse/index.js'
-
 import { expect } from 'chai'
+
+import { recursiveReverse } from '../recursive-reverse/index.js'
 
 describe('reverses a string recursively', () => {
   it('should reverse pisica to acisip', function () {

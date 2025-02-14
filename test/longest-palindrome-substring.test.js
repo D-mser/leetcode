@@ -1,6 +1,6 @@
-import { getLongestPalindromeSubstring } from '../longest-palindrome-substring/index.js'
-
 import { expect } from 'chai'
+
+import { getLongestPalindromeSubstring } from '../longest-palindrome-substring/index.js'
 
 describe('longest palindrome substring', () => {
   it('returns the longest palindrome substring', () => {
